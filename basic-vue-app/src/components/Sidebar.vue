@@ -21,7 +21,7 @@ export default {
 
   .books {
     border: 1px solid black;
-    height: 20vw;
+    height: 25vw;
     width: 10vw;
     display: flex;
     flex-direction: column;
@@ -29,6 +29,7 @@ export default {
     align-items: center;
     justify-content: space-around;
     text-decoration: none;
+    color: black;
   }
 
   .book-img {
@@ -39,7 +40,7 @@ export default {
 
   .authors {
     border: 1px solid black;
-    height: 20vw;
+    height: 25vw;
     width: 10vw;
     display: flex;
     flex-direction: column;
@@ -47,6 +48,7 @@ export default {
     align-items: center;
     justify-content: space-around;
     text-decoration: none;
+    color: black;
 
   }
 

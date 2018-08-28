@@ -31,6 +31,7 @@ export default {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
   }
 
   .book {
@@ -47,16 +48,13 @@ export default {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
   }
 
   .author {
     border: 1px solid black;
     height: 40vw;
     width: 40vw;
-  }
-
-  h2 {
-    text-decoration: none;
   }
 
 </style>
